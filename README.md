@@ -2,20 +2,20 @@ Hi 👋 My name is Nicklas Winther
 ================================
 Computer Science Student.
 -------------------------
-I've been coding since 2016, where I started with HTML and Javascript. I have a passion for videogame development, but most of my time is used developing applications and webpages. Right now, I've tried coding in: Java, Javascript, HTML, ReactJS, C#, and F#, but I'm definitely the best at Java right now. I have both frontend and backend experience. Backend: via Java, javalin, JPQL and Postgresql. Frontend: via Javascript, ReactJS, HTML & CSS. I have made my own Restful API, deployed via docker containers, and made single-page-applications.* 
+I've been coding since 2016, where I started with HTML and Javascript. I have a passion for videogame development, but most of my time is used developing applications and webpages. Right now, I've tried coding in: Java, Javascript, HTML, ReactJS, C#, and F#, but I'm definitely the best at Java right now. I have both frontend and backend experience. Backend: via Java, javalin, JPQL and Postgresql. Frontend: via Javascript, ReactJS, HTML & CSS. I have made my own Restful API, deployed via docker containers, and made single-page-applications. 
 <br>
 <br>
-🌍  I'm based in Denmark* 
+🌍  I'm based in Denmark 
 <br>
-🖥️  See my portfolio at [wintherdev.com](http://home.wintherdev.com/)* 
+🖥️  See my portfolio at [wintherdev.com](http://home.wintherdev.com/) 
 <br>
-✉️  You can contact me at [wintherdev@hotmail.com](mailto:wintherdev@hotmail.com)* 
+✉️  You can contact me at [wintherdev@hotmail.com](mailto:wintherdev@hotmail.com) 
 <br>
-🚀  I'm currently working on [Current Deployed Project](http://yapp.wintherdev.com/)* 
+🚀  I'm currently working on [Current Deployed Project](http://yapp.wintherdev.com/) 
 <br>
-🧠  I'm learning .NET* 
+🧠  I'm learning .NET 
 <br>
-🤝  I'm open to collaborating on any videogame projects.* 
+🤝  I'm open to collaborating on any videogame projects. 
 <br>
 ⚡  Current looking for job.
 <br>
