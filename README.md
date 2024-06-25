@@ -2,7 +2,7 @@ Hi 👋 My name is Nicklas Winther
 ================================
 Computer Science Student.
 -------------------------
-I've been coding since 2016, where I started with HTML and Javascript. I have a passion for videogame development, but most of my time is used developing applications and webpages. Right now, I've tried coding in: Java, Javascript, HTML, ReactJS, C#, and F#, but I'm definitely the best at Java right now. I have both frontend and backend experience. Backend: via Java, javalin, JPQL and Postgresql. Frontend: via Javascript, ReactJS, HTML & CSS. I have made my own Restful API, deployed via docker containers, and made single-page-applications. 
+I've been coding since 2016, where I started with HTML and Javascript. I have a passion for videogame development, but most of my time is used developing applications and webpages. I've tried coding in: Java, Javascript, HTML, ReactJS, C#, and F#, but I'm definitely the best at Java. I have both frontend and backend experience. Backend: via Java, javalin, JPQL and Postgresql. Frontend: via Javascript, ReactJS, HTML & CSS. I have made my own Restful API, deployed via docker containers, and made single-page-applications. 
 <br>
 <br>
 🌍  I'm based in Denmark 
