@@ -17,7 +17,7 @@ I've been coding since 2016, where I started with HTML and Javascript. I have a 
 <br>
 🤝  I'm open to collaborating on any videogame projects. 
 <br>
-⚡  Current looking for job.
+⚡  Currently looking for a job.
 <br>
 
 ### Skills
